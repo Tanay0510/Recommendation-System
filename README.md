@@ -19,7 +19,8 @@ pandas==0.24.2
 ```
 numpy==1.16.4
 ```
-```matplotlib==3.1.0
+```
+matplotlib==3.1.0
 ```
 You will also need to have software installed to run and execute an iPython Notebook
 
