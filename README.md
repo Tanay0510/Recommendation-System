@@ -10,10 +10,17 @@ Analyze user behavior and social network data on IBM Watson platform to build a 
 
 This project requires Python 3.x and the following Python libraries installed:
 
+```
 scikit-learn==0.21.2
+```
+```
 pandas==0.24.2
+```
+```
 numpy==1.16.4
-matplotlib==3.1.0
+```
+```matplotlib==3.1.0
+```
 You will also need to have software installed to run and execute an iPython Notebook
 
 install Anaconda, a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
