@@ -5,4 +5,4 @@
 
 # Recommendation-System
 
-Analyzed the interactions that users have with articles on the IBM Watson Studio platform, and made recommendations to them about new articles they will like 
+Built a recommendation engine based on user behavior and social network data, to surface content most likely to be relevant to a user. Used collaborative filtering and matrix factorization techniques to build the recommendation engine
